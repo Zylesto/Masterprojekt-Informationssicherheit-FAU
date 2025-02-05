@@ -1,9 +1,7 @@
-# Template for student work at i1 - Report flavour
+# Erstellung von Personas für eine Sicherheits-Awareness-Kampagne an der FAU
 
-Based on previous work by Johannes Götzfried and Vincent Haupert. Maintained by Andreas Hammer.
+In der heutigen digital vernetzten Welt ist die Informationssicherheit ein zentrales Anliegen, besonders an akademischen Institutionen wie der FAU, wo die Digitalisierung von Forschung und Lehre stetig voranschreitet. Angesichts dieser Entwicklung setzt sich die FAU das Ziel, eine Kultur der Sicherheitsbewusstheit innerhalb ihrer vielfältigen Studierendenschaft zu fördern. Ein besonderes Augenmerk liegt dabei auf der Heterogenität der Studierenden, die in ihren Studienfächern, dem technischen Verständnis und dem Bewusstsein für Informationssicherheit stark variieren.
 
-## Usage:
+In der Cybersicherheitsforschung wird häufig betont, dass der Mensch als schwächstes Glied in der Sicherheitskette gilt, da der Großteil der Sicherheitsvorfälle durch menschliche Fehler verursacht wird. Vor diesem Hintergrund erkennt die FAU die Notwendigkeit, Personas auf Basis wissenschaftlicher Standards zu erstellen, um die Studierenden gezielt zu sensibilisieren.
 
-You can copy the contents of this ZIP into a Git repo and it should (hopefully) work out of the box. If you put it into a GitLab project, it should also automatically create a CI pipeline and build your PDF on the server.
-
-Change your name, your report title, advisor and examiner  in the first lines of report.tex.
+Diese Personas repräsentieren die breite Diversität der Studierendenschaft, welche sich über fünf Fakultäten erstreckt. Die Entwicklung dieser Personas erfolgt durch einen Onlinefragebogen, um ein Verständnis für die verschiedenen Bedürfnisse, Einstellungen und Verhaltensweisen in Bezug auf Informationssicherheit zu gewinnen. Sie dienen als Grundlage für die maßgeschneiderte Gestaltung der Awareness-Kampagne, mit dem Ziel, die Studierenden effektiv zu erreichen und zu sensibilisieren. Dadurch soll sichergestellt werden, dass die Kampagne nicht nur auf ein breites Bewusstsein abzielt, sondern auch das notwendige Wissen und die Werkzeuge vermittelt, um die Studierenden im Umgang mit den Risiken der digitalen Welt zu befähigen.
